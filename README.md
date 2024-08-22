@@ -3,20 +3,21 @@
 Markdown Practice Repository
 Welcome to the Markdown Practice Repository! This repository is designed to help you practice and master Markdown syntax.
 
-#Markdown Practice<!-Headers: Practice using different levels of headers.->
+#Markdown Practice
 
-# Heading
+# Heading => level 1 heading
 
-## Line
+## Line => level 2 heading
 
-** Text attributes **
+** Text attributes ** => bold
 
-* Quote *
-- Bullet list
+* Quote * => italic
+
+- Bullet list => unordered list item
 - Numbered list
 
-* Link
+* Link => ordered list 
     *Image
       *Table
-1. Code
+1. Code => ordered list with numbers
 2. Task list
