@@ -1,9 +1,7 @@
-# markdown-Practice
+# markdown Practice
 
 Markdown Practice Repository
 Welcome to the Markdown Practice Repository! This repository is designed to help you practice and master Markdown syntax.
-
-#Markdown Practice
 
 # Heading => level 1 heading
 
